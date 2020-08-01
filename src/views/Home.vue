@@ -97,7 +97,7 @@ import PageTemplate from "./general/PageTemplate";
 import PageHeader from "./general/PageHeader";
 
 export default {
-  name: "home",
+  name: "Home",
   components: {
     PageTemplate,
     PageHeader

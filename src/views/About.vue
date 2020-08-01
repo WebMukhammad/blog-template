@@ -45,7 +45,7 @@ import PageTemplate from "./general/PageTemplate";
 import PageHeader from "./general/PageHeader";
 
 export default {
-  name: "home",
+  name: "About",
   components: {
     PageTemplate,
     PageHeader

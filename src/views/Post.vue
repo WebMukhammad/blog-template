@@ -135,7 +135,7 @@ import PageTemplate from "./general/PageTemplate";
 import PageHeader from "./general/PageHeader";
 
 export default {
-  name: "home",
+  name: "Post",
   components: {
     PageTemplate,
     PageHeader
